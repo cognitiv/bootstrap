@@ -1,6 +1,6 @@
 cmake_minimum_required(VERSION 3.12)
 
-project(cognitive-cpp)
+project(cognitiv-cpp)
 
 include( ${CMAKE_SOURCE_DIR}/cmake/bootstrap.cmake )
 
